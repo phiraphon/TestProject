@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">New Project</string>
+    <string name="first">First</string>
+    <string name="user_name">Username</string>
+    <string name="pass_word">Password</string>
+    <string name="name">Name</string>
+    <string name="hammer">Hammer</string>
+    <string name="scissors">Scissors</string>
+    <string name="paper">Paper</string>
+    <string name="random">Random</string>
+</resources>
